@@ -169,6 +169,8 @@ http://192.168.3.1:8686/udp/239.93.14.100:5140.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=hxws
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="卫视频道",星空卫视
 http://192.168.3.1:8686/udp/239.93.14.10:2193.m3u8
+#EXTINF:-1 tvg-name="channelv" tvg-logo="https://live.fanmingming.cn/tv/channelv.png" group-title="卫视频道",channelv
+http://192.168.3.1:8686/udp/239.93.1.7:2194.m3u8
 #EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="" group-title="地方频道",乐山新闻综合
 http://192.168.3.1:8686/udp/239.93.50.99:5140.m3u8
 #EXTINF:-1 tvg-name="乐山文旅生活" tvg-logo="" group-title="地方频道",乐山文旅生活
