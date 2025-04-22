@@ -363,30 +363,14 @@ http://192.168.3.1:8686/rtp/239.93.14.213:5140.m3u8
 
 #EXTINF:-1 tvg-name="凉山彝语综合" tvg-logo="" group-title="地方频道",凉山彝语综合
 
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="台湾频道",中天新闻台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.cn/tv/中视.png" group-title="台湾频道",中视
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻台.png" group-title="台湾频道",中视新闻
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.cn/tv/台视.png" group-title="台湾频道",台视
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="台湾频道",台视新闻
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="台湾频道",华视
-http://aktv_stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="台湾频道",中天新闻
+http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="" group-title="台湾频道",东森新闻
-http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="台湾频道",寰宇新闻
-http://aktv_stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="台湾频道",TVBS新闻
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="年代ERANewsHD" tvg-logo="https://live.fanmingming.cn/tv/年代ERANewsHD.png" group-title="台湾频道",年代ERANewsHD
-https://stream1.freetv.fun/nian-dai-xin-wen-2.ctv
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="台湾频道",民视新闻台
-https://stream1.freetv.fun/min-shi-xin-wen-8.m3u8
-#EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="" group-title="台湾频道",三立新闻iNEWS
-http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://live.fanmingming.cn/tv/龙华偶像.png" group-title="台湾频道",龙华偶像台
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
 #EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="台湾频道",龙华日韩台
@@ -402,25 +386,19 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片台" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png" group-title="台湾频道",龙华洋片台
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="" group-title="台湾频道",纬来体育
-http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",TVB Jade
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="" group-title="香港频道",TVBJ1
-http://php.jdshipin.com/TVOD/iptv.php?id=j1
+http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="香港频道",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="香港频道",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="明珠台剧集台" tvg-logo="" group-title="香港频道",明珠台剧集台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.cn/tv/TVB+.png" group-title="香港频道",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="" group-title="香港频道",TVB娱乐新闻
-http://php.jdshipin.com/smt.php?id=Tvbentertainment
+http://aktv_stream.m16tv.cfd/stream/aktv1/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="" group-title="香港频道",娱乐新闻台
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="香港频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="" group-title="香港频道",HOYTV
@@ -432,25 +410,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="RTHK33" tvg-logo="" group-title="香港频道",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://live.fanmingming.cn/tv/TVB 经典台.png" group-title="香港频道",千禧经典台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="Asian Action" tvg-logo="" group-title="香港频道",Asian Action
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="" group-title="香港频道",黄金翡翠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="" group-title="香港频道",美亚电影台
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="" group-title="香港频道",myTV SUPER 18台
-http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 tvg-name="Celestial Classic Movies" tvg-logo="" group-title="香港频道",Celestial Classic Movies
-http://php.jdshipin.com/smt.php?id=Celestial2
-#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="" group-title="香港频道",Celestial Movies
-http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 tvg-name="KIX" tvg-logo="" group-title="香港频道",KIX
-http://aktv_stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="" group-title="香港频道",Thrill
-http://aktv_stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="PopC" tvg-logo="" group-title="香港频道",PopC
-http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png" group-title="澳门频道",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="" group-title="澳门频道",澳视卫星
@@ -467,14 +433,12 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="海外频道",CNN
 https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
-#EXTINF:-1 tvg-name="28 AI 智慧赛马" tvg-logo="" group-title="海外频道",28 AI 智慧赛马
-http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="" group-title="海外频道",Channel 5
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 8" tvg-logo="" group-title="海外频道",Channel 8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel U HD" tvg-logo="" group-title="海外频道",Channel U HD
-https://cdn6.163189.xyz/live/chu/stream.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="" group-title="海外频道",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="" group-title="海外频道",Astro AEC
@@ -483,82 +447,16 @@ http://php.jdshipin.com:8880/smt.php?id=AEC
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="" group-title="海外频道",Astro欢喜台
 http://php.jdshipin.com:8880/smt.php?id=Huahee
-#EXTINF:-1 tvg-name="Astro Football" tvg-logo="" group-title="海外频道",Astro Football
-http://aktv_stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1 tvg-name="Astro IQIYI" tvg-logo="" group-title="海外频道",Astro IQIYI
-http://aktv_stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="" group-title="海外频道",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png" group-title="海外频道",AXN
 http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 tvg-name="LoveNature" tvg-logo="https://live.fanmingming.cn/tv/LoveNature.png" group-title="海外频道",LoveNature
-http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.cn/tv/tvN.png" group-title="海外频道",tvN
-http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-logo="" group-title="海外频道",Animax
-http://aktv_stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.cn/tv/DW.png" group-title="海外频道",DW
-http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-name="france24" tvg-logo="https://live.fanmingming.cn/tv/france24.png" group-title="海外频道",france24
-http://aktv_stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="https://live.fanmingming.cn/tv/NHKWorld.png" group-title="海外频道",NHKWorld
-http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="" group-title="海外频道",Nick Jr
-http://aktv_stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png" group-title="海外频道",Nickelodeon
-http://aktv_stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-name="Xite Hits" tvg-logo="" group-title="海外频道",Xite Hits
-http://aktv_stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1 tvg-name="Xite Rock" tvg-logo="" group-title="海外频道",Xite Rock
-http://aktv_stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="ROCK Action" tvg-logo="" group-title="海外频道",ROCK Action
-http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="" group-title="海外频道",ZooMoo
-http://aktv_stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 tvg-name="亚洲新闻台" tvg-logo="https://live.fanmingming.cn/tv/亚洲新闻.png" group-title="海外频道",亚洲新闻台
-http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="cinemaworld" tvg-logo="https://live.fanmingming.cn/tv/cinemaworld.png" group-title="海外频道",cinemaworld
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 tvg-name="FIGHT SPORTS" tvg-logo="" group-title="海外频道",FIGHT SPORTS
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1 tvg-name="Mediacorp Entertainment Chinese" tvg-logo="" group-title="海外频道",Mediacorp Entertainment Chinese
-http://aktv_stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="" group-title="海外频道",NBA TV
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 tvg-name="Sukan" tvg-logo="" group-title="海外频道",Sukan
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 tvg-name="TV9" tvg-logo="" group-title="海外频道",TV9
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-#EXTINF:-1 tvg-name="Unifi Sport" tvg-logo="" group-title="海外频道",Unifi Sport
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 tvg-name="曼联电视频道" tvg-logo="" group-title="海外频道",曼联电视频道
-http://aktv_stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 tvg-name="朝鲜恩情台" tvg-logo="" group-title="海外频道",朝鲜恩情台
-http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://live.fanmingming.cn/tv/ELTV生活英语台.png" group-title="海外频道",ELTV生活英语台
-http://aktv_stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="" group-title="海外频道",beIN SPORTS XTRA
-http://aktv_stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
-#EXTINF:-1 tvg-name="PAC12" tvg-logo="" group-title="海外频道",PAC12
-http://aktv_stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel DE" tvg-logo="" group-title="海外频道",Tennis Channel DE
-http://aktv_stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-#EXTINF:-1 tvg-name="Red Bull Sports" tvg-logo="" group-title="海外频道",Red Bull Sports
-http://aktv_stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1 tvg-name="YES network" tvg-logo="" group-title="海外频道",YES network
-http://aktv_stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
-#EXTINF:-1 tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="海外频道",CBS SPORTS NETWORK
-http://aktv_stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="海外频道",ESPN
-http://aktv_stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
-#EXTINF:-1 tvg-name="ESPN NEWS" tvg-logo="" group-title="海外频道",ESPN NEWS
-http://aktv_stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel 2 US" tvg-logo="" group-title="海外频道",Tennis Channel 2 US
-http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-#EXTINF:-1 tvg-name="Tennis Channel US" tvg-logo="" group-title="海外频道",Tennis Channel US
-http://aktv_stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-#EXTINF:-1 tvg-name="US MTV LIVE" tvg-logo="" group-title="海外频道",US MTV LIVE
-http://aktv_stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-name="viutv" tvg-logo="https://live.fanmingming.cn/tv/viutv.png" group-title="海外频道",viutv
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="viutv6" tvg-logo="https://live.fanmingming.cn/tv/viutv6.png" group-title="海外频道",viutv6
