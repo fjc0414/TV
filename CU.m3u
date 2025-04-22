@@ -37,9 +37,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
-
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/CGTN.png" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",CGTN
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228075/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
