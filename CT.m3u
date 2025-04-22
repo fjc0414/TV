@@ -56,7 +56,7 @@ http://192.168.3.1:8686/rtp/239.93.14.9:2192.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
 http://192.168.3.1:8686/rtp/239.93.14.4:2191.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰香港
-http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://192.168.3.1:8686/rtp/239.93.14.180:5140.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视4K
