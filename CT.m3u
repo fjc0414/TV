@@ -442,15 +442,21 @@ http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://live.fanmingming.cn/tv/VOA美国之音.png" group-title="海外频道",VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC1.png" group-title="海外频道",BBC News
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png" group-title="海外频道",CNN
 https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
+#EXTINF:-1 tvg-name="CBS" tvg-logo="" group-title="海外频道",CBS
+http://198.16.100.186:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
 #EXTINF:-1 tvg-name="Channel 5" tvg-logo="" group-title="海外频道",Channel 5
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
 #EXTINF:-1 tvg-name="Channel 8" tvg-logo="" group-title="海外频道",Channel 8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="Channel U HD" tvg-logo="" group-title="海外频道",Channel U HD
 https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="" group-title="海外频道",NBA TV
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="" group-title="海外频道",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="" group-title="海外频道",Astro AOD
 http://php.jdshipin.com:8880/smt.php?id=Aodhd
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="" group-title="海外频道",Astro AEC
