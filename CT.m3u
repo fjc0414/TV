@@ -152,7 +152,7 @@ http://192.168.3.1:8686/rtp/239.93.50.43:5140.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
 http://192.168.3.1:8686/rtp/239.93.14.249:5140.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
-https://stream1.freetv.fun/530100dc12484a6e1bc74a557a42b260134a998632ba4a1cafd0339efeb774d8.m3u8
+http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://192.168.3.1:8686/rtp/239.93.14.234:5140.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
@@ -169,6 +169,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hxws
 http://192.168.3.1:8686/rtp/239.93.50.99:5140.m3u8
 #EXTINF:-1 tvg-name="乐山文旅生活" tvg-logo="" group-title="地方频道",乐山文旅生活
 http://192.168.3.1:8686/rtp/239.93.50.100:5140.m3u8
+#EXTINF:-1 tvg-name="井研综合" tvg-logo="" group-title="地方频道",井研综合
+http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="其他频道",老故事
 
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="其他频道",中学生
