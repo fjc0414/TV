@@ -173,16 +173,28 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227979/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227978/index.m3u8
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="其他频道",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
-#https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视频道",第一剧场
-#https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="央视频道",风云音乐
-#https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="央视频道",发现之旅
-#https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视频道",风云足球
-#https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技
+http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.cn/tv/世界地理.png" group-title="央视频道",CCTV-世界地理
+http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视频道",CCTV-风云足球
+http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.cn/tv/风云音乐.png" group-title="央视频道",CCTV-风云音乐
+http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="央视频道",CCTV-风云剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视频道",CCTV-怀旧剧场
+http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.cn/tv/文化精品.png" group-title="央视频道",CCTV-文化精品
+http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视频道",CCTV-女性时尚
+http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.cn/tv/央视台球.png" group-title="央视频道",CCTV-央视台球
+http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+#EXTINF:-1 tvg-id="央视高网" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="央视频道",CCTV-央视高网
+http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="其他频道",CETV-1
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="其他频道",CETV-2
@@ -192,9 +204,9 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228104/index.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.cn/tv/中国交通.png" group-title="其他频道",中国交通
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227499/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="其他频道",中国天气
-
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/河南梨园.png" group-title="其他频道",梨园频道
-
+http://www.lizhinas.top:1009/rtp/239.252.220.179:5140
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="其他频道",金色学堂
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227973/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="其他频道",生活时尚
@@ -224,9 +236,9 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.cn/tv/动漫秀场.png" group-title="卡通频道",动漫秀场
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227977/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="卡通频道",哈哈炫动
-
+http://60.29.124.66:6080/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="卡通频道",优漫卡通
-
+http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="休闲竞技",茶频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227974/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.cn/tv/快乐垂钓.png" group-title="休闲竞技",快乐垂钓
@@ -234,7 +246,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227965/index.m3u8
 #EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.cn/tv/先锋乒羽.png" group-title="休闲竞技",先锋乒羽
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.cn/tv/天元围棋.png" group-title="休闲竞技",天元围棋
-
+http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.fanmingming.cn/tv/四海钓鱼.png" group-title="休闲竞技",四海钓鱼
 
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="休闲竞技",魅力足球
@@ -251,7 +263,6 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227982/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227969/index.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.cn/tv/财富天下.png" group-title="财经频道",财富天下
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227971/index.m3u8
-
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="其他频道",法治天地
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227976/index.m3u8
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="" group-title="其他频道",精彩影视
