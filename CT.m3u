@@ -163,6 +163,8 @@ http://192.168.3.1:8686/rtp/239.93.14.41:5140.m3u8
 http://192.168.3.1:8686/rtp/239.93.15.196:5140.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="卫视频道",农林卫视
 http://192.168.3.1:8686/rtp/239.93.14.100:5140.m3u8
+#EXTINF:-1 tvg-name="西部电影" tvg-logo="https://live.fanmingming.cn/tv/陕西西部电影.png" group-title="卫视频道",西部电影
+http://112.46.105.20:8009/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.cn/tv/海峡卫视.png" group-title="卫视频道",海峡卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=hxws
 #EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="" group-title="地方频道",乐山新闻综合
@@ -199,6 +201,8 @@ http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/央视高网.png" group-title="央视频道",央视高网
 http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.cn/tv/电视指南.png" group-title="央视频道",CCTV-电视指南
+http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="其他频道",CETV-1
 http://192.168.3.1:8686/rtp/239.93.15.111:5140.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="其他频道",CETV-2
